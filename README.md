@@ -24,6 +24,4 @@ This project focuses on detecting machining chatter using a combination of machi
 - NumPy
 - SciPy
 
-## Contact
 
-For any questions or collaboration interests, please contact b.ansh@iitg.ac.in
